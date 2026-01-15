@@ -16,7 +16,7 @@ To identify **top-performing, low-risk mutual fund schemes** using data-driven t
 ## 🐍 Python-Based Fund Analysis
 
 I started by importing and exploring a dataset of over 2500 mutual fund schemes.  
-🔗 [Python Script](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/commit/851d5bb1928e3c85b1f22495efb141ed287bf943)
+🔗 [Python Script](https://github.com/Kartikeytt/Mutual-Funds-Analysis/blob/main/mutual-fund-analysis-Dashboard-Python-PowerBI-main/Mutual%20Fund%20Analysis.ipynb)
 
 ### 1. Data Cleaning
 - Removed unnecessary columns
@@ -85,11 +85,6 @@ After processing the data using Python and Excel, I built an **interactive dashb
 | 🔄 **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
 | ⏳ **3-Year Returns** | Equity Funds: 37.84%, Hybrid: 14.25% |
 
----
-
-## 🖼️ Dashboard Preview
-
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
 ---
 
