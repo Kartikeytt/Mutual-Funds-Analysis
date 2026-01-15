@@ -2,7 +2,7 @@
 
 This mutual fund analysis project focuses on identifying top 30 schemes with high return and low risk using Python, Excel, and Power BI.
 
-🛠️ **Tools Used:** Python (Pandas, Sklearn), Excel, Power BI  
+🛠️ **Tools Used:** Python (Pandas), Excel, Power BI  
 📁 **Dataset:** More Than 2500 Mutual Fund Schemes (Top 30 Filtered)
 
 ---
@@ -42,7 +42,15 @@ Custom scoring formula based on:
 Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
 🔗 [Top 30 Mutual Funds (Excel)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)
 
----
+## Project Structure
+
+📁 Mutual-Funds-Analysis
+│── Mutual Fund Analysis.ipynb
+│── Mutual Fund Dashboard.pbix
+│── Mutual Fund Dashboard.png
+│── top_30_mutual_funds.xlsx
+│── README.md
+
 
 ## 📈 Power BI Dashboard – Mutual Fund Insights
 
@@ -111,25 +119,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 | Power BI | Interactive dashboard and visual storytelling |
 
 ---
-
-## 📁 Files in This Repository
-
-| File | Description |
-|------|-------------|
-| [top_30_mutual_funds.xlsx](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
-| [Mutual Fund Dashboard.pbix](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
-| [Mutual Fund Dashboard.png](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
-
----
+ 
 
 ✅ **Feel free to fork, explore, and contribute!**
-
-### 🙌 Feedback Welcome
-
-Thank you for exploring my Mutual Fund Analysis project!  
-I’m always open to suggestions, improvements, or collaboration ideas.
-
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📧 Or drop an email: **niravtrivedi069@gmail.com**
-
-Your feedback helps me grow and build better data-driven solutions. Let’s connect and discuss ideas!
+ 
